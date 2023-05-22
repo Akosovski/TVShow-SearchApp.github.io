@@ -3,6 +3,27 @@
     font-family: 'Roboto', sans-serif;
 }
 
-#title{
+#form-box{
+    margin-left: 45px;
+}
 
+img{
+    transition: all 300ms;
+}
+
+img:hover{
+    cursor: pointer;
+    filter: brightness(0.5);
+}
+
+@media only screen and (max-width: 600px) {
+    #main-form {
+        margin-left: 15px;
+    }
+    #title{
+        margin-left: -15px;
+    }
+    #form-box{
+        margin-left: 0;
+    }
 }
