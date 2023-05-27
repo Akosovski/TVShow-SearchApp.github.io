@@ -1,5 +1,5 @@
 ## TV Show Search App
-A simple website which contains TV Show data fetched from TV Maze API (https://api.tvmaze.com) built with Bootstrap.
+A simple website used to search and view TV Show data fetched from TV Maze API (https://api.tvmaze.com) built with Bootstrap.
 
 ---
 
